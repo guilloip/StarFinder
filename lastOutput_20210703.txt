@@ -1,0 +1,28 @@
+total of pixels adquired in histogram: 2080000
+total of pixels calculated from resolution: 2080000
+Enter Star Radious (10):10
+*** STAR FINDING PROCESS ENDED ***
+found stars: 10
+Star#0 : 8 HI pixels detected @ [661,12]
+Star#1 : 5 HI pixels detected @ [1458,33]
+Star#2 : 29 HI pixels detected @ [810,219]
+Star#3 : 17 HI pixels detected @ [1172,503]
+Star#4 : 13 HI pixels detected @ [1338,505]
+Star#5 : 13 HI pixels detected @ [541,590]
+Star#6 : 2 HI pixels detected @ [1199,651]
+Star#7 : 19 HI pixels detected @ [963,853]
+Star#8 : 2 HI pixels detected @ [1045,1047]
+Star#9 : 4 HI pixels detected @ [1422,1275]
+********* THE 4 BRIGTHERS STARS ARE: **********
+ORDER: 1 for Star#2 @(810,219) with bright of 27.181406 arb.units
+ORDER: 2 for Star#7 @(963,853) with bright of 23.950113 arb.units
+ORDER: 3 for Star#5 @(541,590) with bright of 21.886621 arb.units
+ORDER: 4 for Star#3 @(1172,503) with bright of 20.301587 arb.units
+------------- Rest of stars --------------
+ORDER: 5 for Star#9 @(1422,1275) with bright of 19.920635 arb.units
+ORDER: 6 for Star#4 @(1338,505) with bright of 16.412698 arb.units
+ORDER: 7 for Star#8 @(1045,1047) with bright of 14.795918 arb.units
+ORDER: 8 for Star#0 @(661,12) with bright of 13.408163 arb.units
+ORDER: 9 for Star#1 @(1458,33) with bright of 10.959184 arb.units
+ORDER: 10 for Star#6 @(1199,651) with bright of 10.482993 arb.units
+
